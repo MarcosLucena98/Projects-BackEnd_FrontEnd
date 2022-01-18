@@ -92,13 +92,14 @@ section.about{
     font-size: 50px;
 }
 
-.text-about p{
+.text-about p{ 
     margin: 20px 0;
     color:black;
     font-size: 14px;
     font-weight: bold;
     max-width: 500px;
 }
+
 .text-about button{
     border:0;
     font-size: 20px;
